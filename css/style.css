@@ -1,0 +1,18 @@
+body {
+    background-color:azure;
+    border: 500px;
+}
+
+h1 {
+    color: green;
+    
+}
+
+p {
+    font: size 160%;
+}
+
+pre {font-family:'Courier';
+    color:blue;
+}
+
