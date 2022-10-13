@@ -1,6 +1,8 @@
 body {
     background-color:azure;
-    border: 500px;
+    margin-left: 10cm ;
+    margin-right: 10cm;
+
 }
 
 h1 {
@@ -9,7 +11,8 @@ h1 {
 }
 
 p {
-    font: size 160%;
+    font-size:larger ;
+    
 }
 
 pre {font-family:'Courier';
